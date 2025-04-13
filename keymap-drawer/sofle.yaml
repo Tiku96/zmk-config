@@ -1,4 +1,4 @@
-layout: {qmk_keyboard: sofle/rev1}
+layout: {zmk_keyboard: sofle}
 layers:
   BAS: ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '=', Esc, Q, W, F, P, B, J, L, U, Y, ;, '$$mdi:backspace-outline$$', ↹, A, R, S, T, G, M, N, E, I,
     O, '''', '$$mdi:apple-keyboard-shift$$', Z, X, C, D, V, PLAY PAUSE, MUTE, K, H, ',', ., /, '$$mdi:apple-keyboard-shift$$', '$$mdi:apple-keyboard-command$$', '$$mdi:apple-keyboard-option$$',
